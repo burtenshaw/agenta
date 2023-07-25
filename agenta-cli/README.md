@@ -1,5 +1,9 @@
-# Agenta SDK and CLI 
+# Using this template
 
-This directory contains the code source for the python SDK and CLI for Agenta AI.
+Please make sure to create a `.env` file with your OpenAI API key before running the app.
+OPENAI_API_KEY=sk-xxxxxxx
 
-Please see the Readme.md in the main dir for installation and usage instructions.
+You can find your keys here:
+https://platform.openai.com/account/api-keys
+
+Go back to the [Getting started tutorial](https://docs.agenta.ai/docs/getting-started) to continue
